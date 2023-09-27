@@ -1,0 +1,31 @@
+.divA {
+    background-color: #830000;
+    width: 900px;
+    height: 900px
+}
+
+.divB {
+    background-color: #00909b;
+    width: 450px;
+    height: 450px
+}
+
+.divP {
+    color: darkolivegreen;
+    background-color: cyan;
+    font-size: 75px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 400
+}
+
+.divD {
+    background-color: rgb(133, 4, 165);
+    height: 10vh;
+    width: 57%;
+}
+
+.divE {
+    width: 74vw;
+    height: 35%;
+    background-color: rgba(57, 216, 142, 0.959);
+}
